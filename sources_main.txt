@@ -1,7 +1,0 @@
-C:\kpi\5sem\Java\test-assignment\src\main\java\ua\kpi\comsys\test2\NumberList.java 
-C:\kpi\5sem\Java\test-assignment\src\main\java\ua\kpi\comsys\test2\implementation\Demo.java 
-C:\kpi\5sem\Java\test-assignment\src\main\java\ua\kpi\comsys\test2\implementation\NumberListImpl.java 
-C:\kpi\5sem\Java\test-assignment\src\main\java\ua\kpi\comsys\test2\implementation\internal\BaseConverter.java 
-C:\kpi\5sem\Java\test-assignment\src\main\java\ua\kpi\comsys\test2\implementation\internal\BitwiseAndOperation.java 
-C:\kpi\5sem\Java\test-assignment\src\main\java\ua\kpi\comsys\test2\implementation\internal\CircularDoublyList.java 
-C:\kpi\5sem\Java\test-assignment\src\main\java\ua\kpi\comsys\test2\implementation\internal\Node.java 
